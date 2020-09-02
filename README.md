@@ -1,3 +1,6 @@
-**Aula de PW1 da ETEC Camargo Aanha** 
+**Leonardo Barcala Alves Ribeiro**
 
- - curso de Desenvolvimento de Sistema 1º  Semestre de 2020
+                Desenvolvimento De Sistema 1ºSemestre
+
+ - Me chamo Leonardo, gosto de descobrir como as coisas funcionam e porque funcionam daquela forma.
+Uma pessoa de poucas palavras porem que esta sempre prestando atenção em tudo ao seu redor...
